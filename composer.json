@@ -1,0 +1,13 @@
+{
+    "name": "gabriel/php",
+    "version": "1.0.0",
+    "description": "Sistema de cadastro",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "php/src/"
+        }
+    }
+}
